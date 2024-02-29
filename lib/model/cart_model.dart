@@ -5,7 +5,7 @@ class CartModel extends ChangeNotifier{
   //lists of items on sale
   final List _shopItems = [
     // [itemName, itemPrice, imagePath, color ]
-    ["Avovado", "4.00", "lib/Images/avocado.png", Colors.green],
+    ["Avocado", "4.00", "lib/Images/avocado.png", Colors.green],
     ["Banana", "2.50", "lib/Images/banana.png", Colors.yellow],
     ["Chicken", "12.80", "lib/Images/chicken.png", Colors.brown],
     ["Water", "1.00", "lib/Images/water.png", Colors.blue],
